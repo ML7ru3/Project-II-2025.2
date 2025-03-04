@@ -1,0 +1,9 @@
+1. HermeticWiper database:
+https://bazaar.abuse.ch/browse/tag/hermeticwiper/?fbclid=IwY2xjawIz885leHRuA2FlbQIxMAABHR62SADbjHe4TY2e3gJX6Sc6P1BuEwSJg1G675ewtsE4SwyP283NHvoP6g_aem_Xrb0d-sOMj9cXbsXrNEttA
+
+
+2. Malware Analysis report (from PTIT, with lab experiment):
+https://www.slideshare.net/slideshow/phn-tch-m-c-c-bn-bo-co-thc-tp/106863971?fbclid=IwY2xjawIz9BxleHRuA2FlbQIxMAABHapx9auvQCtl3o6q-htot_mWWEChQWofoLVPsLCoqWxv_g_bQn9bkTn8kw_aem_IB98ucZv6R1gRpCxL4paUg
+
+3. Article about HermeticWiper:
+https://www.threatdown.com/blog/hermeticwiper-a-detailed-analysis-of-the-destructive-malware-that-targeted-ukraine/#:~:text=This%20malware%20was%20given%20the%20name%20%E2%80%9CHermeticWiper%E2%80%9D%20based,access%20to%20many%20low-level%20data-structures%20on%20the%20disk.
